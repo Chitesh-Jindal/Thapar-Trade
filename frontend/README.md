@@ -1,4 +1,4 @@
-# ThaparMART — Professional Frontend MVP
+# ThaparMART —  Frontend 
 
 A professional React frontend prototype for the ThaparMART Software Engineering project.
 
